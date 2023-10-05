@@ -1,2 +1,5 @@
+role,NetID,LastName,FirstName
 boss,xwang2684,Wang,Xiaoyang
-zza,zeng86,ziang,zeng
+employee,zza,zeng86,ziang,zeng
+employee,ylu438,Lu,Yanrun
+
